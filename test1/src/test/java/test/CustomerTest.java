@@ -21,7 +21,6 @@ public class CustomerTest {
 		movie = new Movie("MovieName", Movie.CHILDRENS);
 		rental = new Rental(movie, 0);
 		customer.addRental(rental);
-		//Modified
 			
 		
 		
